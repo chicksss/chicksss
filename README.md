@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chicksss
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react, C++, C# and DOMjs.
+- 🌱 I’m currently learning react, Git, C++, C# and DOMjs.
 - 💞️ I’m looking to collaborate on professional programmers
 - 📫 How to reach me just say hello.
 
